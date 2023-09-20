@@ -35,9 +35,10 @@ Steps:
 •	Jira: Look for the "Assignee" field on the issue details page. Click on it and select the team member from the dropdown list or start typing their name to search for them.
 •	GitHub Issues: On the issue details page, click the "Assignees" section on the right side. Start typing the team member's GitHub username or name, and select them from the suggestions.
 •	After selecting the team member, save the changes to assign the issue to them. They will now receive notifications about the assignment.
-Task 3:Describe how to use Git branches and pull requests to work on the issue, ensuring that changes are tracked and reviewed
-	Create a Git Branch
 
+Task 3:Describe how to use Git branches and pull requests to work on the issue, ensuring that changes are tracked and reviewed
+
+	Create a Git Branch
 	Make Changes
 	Push Changes to Remote
 	Create a Pull Request (PR)

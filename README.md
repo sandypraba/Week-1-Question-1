@@ -46,6 +46,7 @@ Task 3:Describe how to use Git branches and pull requests to work on the issue, 
 	Review and Collaboration
 	Merge the PR
 	Close the issue
+
 Steps:
 
 •	Using the command line, run git checkout -b issue-branch where "issue-branch" is a descriptive name for your branch.

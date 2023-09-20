@@ -29,6 +29,7 @@ Task 2: Explain how to assign the issue to a specific team member.
 	Access the Issue
 	Assignee Selection
 	Save Changes
+
 Steps:
 
 •	Open the issue that needs to be assigned within the issue tracking system.

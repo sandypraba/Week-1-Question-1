@@ -15,6 +15,7 @@ Task1: Describe the process of creating a new issue or bug report in the issue t
 	Submit the Issue
 
 Steps:
+
 •	Log in to your issue tracking system account and navigate to the project where you want to report the bug
 •	Jira: Click on the "+ Create" button at the top of the project board, then select "Issue" or "Bug." Fill in the required information, including the issue summary, description, and any relevant details such as steps to reproduce and expected behavior.
 •	GitHub Issues: Click on the "New Issue" button in the repository's "Issues" tab. Provide a clear title and detailed description of the bug.
@@ -24,16 +25,19 @@ Steps:
 •	Finally, click the "Create" or "Submit" button to create the issue. It will now be visible to the team.
 
 Task 2: Explain how to assign the issue to a specific team member.
+
 	Access the Issue
 	Assignee Selection
 	Save Changes
 Steps:
+
 •	Open the issue that needs to be assigned within the issue tracking system.
 •	Jira: Look for the "Assignee" field on the issue details page. Click on it and select the team member from the dropdown list or start typing their name to search for them.
 •	GitHub Issues: On the issue details page, click the "Assignees" section on the right side. Start typing the team member's GitHub username or name, and select them from the suggestions.
 •	After selecting the team member, save the changes to assign the issue to them. They will now receive notifications about the assignment.
 Task 3:Describe how to use Git branches and pull requests to work on the issue, ensuring that changes are tracked and reviewed
 	Create a Git Branch
+
 	Make Changes
 	Push Changes to Remote
 	Create a Pull Request (PR)
@@ -41,6 +45,7 @@ Task 3:Describe how to use Git branches and pull requests to work on the issue, 
 	Merge the PR
 	Close the issue
 Steps:
+
 •	Using the command line, run git checkout -b issue-branch where "issue-branch" is a descriptive name for your branch.
 •	Ensure that your local repository is up-to-date with the latest changes from the main or development branch by running git pull from the main branch before creating the new branch.
 •	Make the necessary code changes to fix the critical bug within your newly created branch. Commit your changes with clear and concise commit messages.
